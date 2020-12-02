@@ -22,4 +22,4 @@ You can also just put all the answers in the argument of the script.
 `./SqlServerTool.ps1 backup . MyDb c:/SqlMyDbBackup mytag`
 
 #### Restore
-`./SqlServerTool.ps1 restore . MyDb c:/SqlMyDbBackup_20201202010101_mytag.bak`
+`./SqlServerTool.ps1 restore . MyDb c:/SqlMyDbBackup/MyDb_mytag_20201202010101.bak`
